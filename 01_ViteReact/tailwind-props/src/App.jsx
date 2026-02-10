@@ -16,7 +16,7 @@ function App() {
      <h1 class="text-3xl font-bold underline bg-amber-500" >
     Hello world!
   </h1>
-  <Card username="Subham" text="hi"/>
+  <Card username={"Subham"} text="hi"/>
     
     </>
   )
